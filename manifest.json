@@ -1,18 +1,18 @@
 {
   "name": "Zenith Laundry OS",
   "short_name": "Zenith",
-  "description": "Sistem Operasional Laundry Terintegrasi Cloud",
-  "start_url": "index.html",
+  "start_url": "/index.html",
   "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#020617",
+  "background_color": "#0f172a",
   "theme_color": "#3b82f6",
+  "orientation": "portrait",
+  "scope": "/",
   "icons": [
     {
       "src": "https://cdn-icons-png.flaticon.com/512/3003/3003984.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "maskable"
+      "purpose": "any maskable"
     }
   ]
 }
